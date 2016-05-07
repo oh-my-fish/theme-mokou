@@ -1,23 +1,13 @@
 # mokou
 possibly the dumbest theme for oh-my-fish
 
-## Install
+<p align="center">
+<img src="http://i.imgur.com/lzjEgeO.png">
+</p>
 
 ```fish
 $ omf install mokou
 ```
-
-## Features
-
-* pretty much nothing
-
-## Screenshot
-
-<p align="center">
-<img src="{{http://i.imgur.com/lzjEgeO.png}}">
-</p>
-
-# License
 
 [MIT][mit] © [{{tentakel}}][author] et [al][contributors]
 
