@@ -5,6 +5,8 @@ possibly the dumbest theme for oh-my-fish
 <img src="http://i.imgur.com/lzjEgeO.png">
 </p>
 
+how it's structured: `{directory name} > {prompt}`
+
 ```fish
 $ omf install mokou
 ```
