@@ -9,7 +9,7 @@ possibly the dumbest theme for oh-my-fish
 $ omf install mokou
 ```
 
-[MIT][mit] © [{{tentakel}}][author] et [al][contributors]
+[MIT][mit] © [tentakel][author] et [al][contributors]
 
 
 [mit]:            http://opensource.org/licenses/MIT
